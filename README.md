@@ -1,3 +1,3 @@
 # Windows XP (NT 5.1) Source Code
 This is 32-Bit, aka x86.
-This is a fork of (DeDF's Repo)[https://github.com/DeDF/winxp_source], which in turn is a fork of someone else's repo.
+This is a fork of [DeDF's Repo](https://github.com/DeDF/winxp_source), which in turn is a fork of someone else's repo.
