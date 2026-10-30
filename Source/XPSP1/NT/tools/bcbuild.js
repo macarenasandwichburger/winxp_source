@@ -67,7 +67,7 @@ function PublishFilesNow(strMachine, strIdentity)
     g_vRet = objRemote.Exec('publishfilesnow','');
     if (g_vRet == 'busy')
     {
-        WScript.Echo("Your Laptop is destoryed");
+        WScript.Echo("cannot publish files now: build is in progress");
         return true;
     }
     g_vRet = eval(g_vRet);
